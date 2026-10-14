@@ -1,7 +1,7 @@
 # **Mikeim368**
 *Cheese*
 
-## Checklist
+## Tech Stack
 - Aseprite
 - Godot
 - FL Studio
