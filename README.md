@@ -1,5 +1,5 @@
 # Bonjour, Mikeim368's here.
-[![Youtube](https://img.shields.io/badge/-МЫШич-%23ff0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@immice368)
+[![Youtube](https://img.shields.io/badge/-@immice-%23ff0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@immice368)
 
 Me draw **a lot**, maybe made some games.
 ## Portfolio
