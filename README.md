@@ -1,4 +1,5 @@
 # Bonjour, Mikeim368's here.
+![Youtube](https://img.shields.io/badge/-Youtube-%23ff0000?style=flat-square&logo=youtube&logoColor=ffffff)
 Me draw **a lot**, maybe made some games.
 ## Portfolio
 [![Page Cleaner](https://svg.bookmark.style/api?url=https://mike338.itch.io/page-cleaner&mode=light&style=horizontal)](https://mike338.itch.io/page-cleaner)
