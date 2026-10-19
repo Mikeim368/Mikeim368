@@ -11,4 +11,4 @@ Me draw **a lot**, maybe made some games.
 ![Git](https://img.shields.io/badge/-Git-%23000000?style=flat-square&logo=git&logoColor=%23F05032)
 ![Godot](https://img.shields.io/badge/-Godot-%231572B6?style=flat-square&logo=godotengine&logoColor=%23ffffff)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-%23ffffff?style=flat-square&logo=aseprite)
-![CSS3](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python&logoColor=%23ffffff)
