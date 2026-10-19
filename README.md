@@ -7,4 +7,4 @@ Me draw **a lot**, maybe made some games.
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Godot](https://img.shields.io/badge/-Godot-%231572B6?style=flat-square&logo=Godot&logoColor=%23ffffff)
-![Aseprite](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=aseprite)
+![Aseprite](https://img.shields.io/badge/-CSS3-%23ffffff?style=flat-square&logo=aseprite)
